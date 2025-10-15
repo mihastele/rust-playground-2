@@ -1,0 +1,14 @@
+[package]
+name = "happyr"
+version = "0.1.0"
+edition = "2021"
+
+# This is a comprehensive Rust learning project
+# Run with: cargo run
+# Test with: cargo test
+
+[dependencies]
+# No external dependencies - pure Rust learning!
+
+[dev-dependencies]
+# Dependencies for testing only
